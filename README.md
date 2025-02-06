@@ -6,3 +6,4 @@
 
 ## 2. Dashboard
 [loan_portfolio_dashboard.pdf](https://github.com/user-attachments/files/18698850/loan_portfolio_dashboard.pdf)
+![Image](https://github.com/user-attachments/assets/267b8ed6-0f73-428c-8045-a44bf0e9f10b)
